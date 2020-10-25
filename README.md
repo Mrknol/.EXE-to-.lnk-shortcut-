@@ -10,6 +10,7 @@ This script is written in Python 3.8.
 There are certain prerequisite modules that need to be installed if you don't have them already in order for the script to run properly.
 
 pip install winshell
+
 pip install pypiwin32
 
 # Functionality
