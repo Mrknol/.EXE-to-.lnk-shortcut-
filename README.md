@@ -22,3 +22,15 @@ What this script basically does is create a shortcut and the edits the Target lo
 This doesn't make your File Undetectable or FUD in anyway! 
 
 This is my first program uploaded on Github, hope this broadens your coding knowledge in any way.
+
+# Use
+
+First you should upload your .exe to a server where you can download it using a direct link.
+
+1. Enter the direct link of your file.
+
+2. Enter the location where you want your exe to be dropped (The shortcut will always be dropped on desktop unless you change the code.)
+
+3. Enter the file name of the exe you want to drop.
+
+4. You'll find a shortcut on the desktop which will should download & execute your exe! :)
