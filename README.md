@@ -13,6 +13,8 @@ pip install winshell
 
 pip install pypiwin32
 
+This basically is a Dropper. It just downloads the file and executes it upon download.
+
 # Functionality
 
 What this script basically does is create a shortcut and the edits the Target location and adds arguments which allows it to run PowerShell and execute commands.
