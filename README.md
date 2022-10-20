@@ -7,7 +7,7 @@ This tool is intended for only educational purposes only.
 
 This script is written in Python 3.8. It's written completely by me MrKnol.
 
-There are certain prerequisite modules that need to be installed if you don't have them already in order for the script to run properly.
+There are certain prerequisite modules that need to be installed in order for the script to run properly.
 
 pip install winshell
 
